@@ -81,7 +81,7 @@ body {
 }
 
 div.gallery {
-    border: 1px solid #ccc;
+    border: none;
 }
 
 div.gallery:hover {
