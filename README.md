@@ -36,7 +36,8 @@
 * 목정우(jwmok9966@gmail.com) : (다른 진로를 찾아서 중도하차) 
 
 ## 역할
-팀장 
+팀장 <br>
+회원모듈 8개 기능, 상품모듈 1개 기능<br>
 일정관리, 팀 리딩, 팀원들 에러 해결
 
 ## 프로젝트 목적
@@ -85,8 +86,6 @@
 
 발표 영상을 첨부합니다.
 https://youtu.be/pg4bqkl2JkQ
-
-@@@@@@@@작성@@@@@@@@@
 
 ## Reference
 * Rankingdak.com, Imdak, Moguchonmall, Cafe24
