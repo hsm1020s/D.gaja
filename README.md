@@ -43,8 +43,10 @@
 
 ## ERD
 #### 담당 회원모듈 (민트색) 문희석
+![ERD](https://github.com/hsm1020s/D.gaja/assets/111288446/e32f8b6a-06fd-4967-bfa5-c18e5dad8c68)
 
 #### 상품모듈 (팀원 중도하차로 인한 ERD재설계) 문희석,김현우,김유성   
+![ERD상품](https://github.com/hsm1020s/D.gaja/assets/111288446/d432b7f7-e5fe-443f-a40a-81d773e9583f)
 
 ## 구현 기능
 1.로그인<br>
