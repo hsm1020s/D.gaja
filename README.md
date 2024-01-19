@@ -12,19 +12,19 @@
 
 ## 개요
 * 프로젝트 이름 : D.MALL 쇼핑몰 프로젝트
-* 프로젝트 기간(1차,2차) : 2023.05.30~2023.08.14 (모델링,발표 포함) 
+* 프로젝트 기간(1차,2차) : 2023.05.30~2023.08.14 (기획,모델링,발표 포함) 77일 1000시간
 * 프로젝트 진행 기관 : 정석코딩 부트캠프
-* Back-End : Apache Tomcat, Java11, Spring FrameWork5.7, MySQL8.0, MyBatis, JSP, Maven, JUnit4(테스트)
-* Front-End : HTML, CSS3, JS ES6, Ajax, JQUERY, Bootstrap(관리자단)
+* Back-End : Tomcat, Java11, Spring5.7, MySQL8.0, MyBatis, JSP, Maven, JUnit4
+* Front-End : HTML, CSS3, JS ES6, Ajax, JQUERY
 * 개발 TOOL : IntelliJ, VSCode, DataGrip, MySQL Workbench
-* 협업 TOOL : git(버전관리), Draw.io(ERD설계), Discord, Notion
+* 협업 TOOL : git, Draw.io, Discord, Notion
 * 외부 API : 카카오 결제 API, 다음 우편번호 API, 자바 메일 API
 
 ## 멤버구성
 
 팀장<br>
 * 문희석(https://github.com/hsm1020s) : <br>
-로그인, 회원가입,정보수정, ID와 PW찾기, 로그인이력, 로그인통계, 포인트, 회원리스트, 상품등록, 메인페이지<br>
+로그인, 회원가입,정보수정, ID와 PW찾기, 로그인이력, 로그인통계, 포인트적립,포인트이력, 회원리스트, 상품등록, 메인페이지<br>
 
 부팀장<br>
 * 김현우(https://github.com/khw4465) : <br>
