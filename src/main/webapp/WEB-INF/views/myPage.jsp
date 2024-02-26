@@ -47,18 +47,6 @@
         <div class="point-list">
             <div class="point-item">
                 <ul>
-<%--                    <li class="point">--%>
-<%--                        <span class="point-value"><span id="total-point">${pointResult}</span> </span>--%>
-<%--                        <strong class="point-type">보유 포인트</strong>--%>
-<%--                    </li>--%>
-<%--                    <li class="point">--%>
-<%--                        <span class="point-value"><span id="normal-point">1,000원(주문포인트)</span>&nbsp;</span>--%>
-<%--                        <strong class="point-type">일반 포인트</strong>--%>
-<%--                    </li>--%>
-<%--                    <li class="point">--%>
-<%--                        <span class="point-value"><span id="special-point">${pointResult}</span></span>--%>
-<%--                        <strong class="point-type">특별 포인트</strong>--%>
-<%--                    </li>--%>
                 </ul>
             </div>
         </div>

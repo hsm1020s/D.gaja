@@ -16,7 +16,7 @@ import java.util.List;
 import java.util.Map;
 
 @Controller
-public class CustHistController { // 이력통계작업 여기서가자
+public class CustHistController { // 이력통계작업 여기서
     CustLoginHistService custLoginHistService; //
     CustLoginHistDao custLoginHistDao; // 임시 테스트용
     @Autowired

@@ -97,18 +97,6 @@
     <div>
 
     </div>
-
-    <!-- 추천인아이디 시작 Recommend_ID-->
-<%--    <div class="login-input">--%>
-<%--        <label for="loginJoinRecommend_Id" class="login_input_label"> 추천인 아이디</label>--%>
-
-<%--        <input type="text" id="loginJoinRecommend_Id" name="rcmdr" placeholder="추천인 아이디" maxlength="12" class="">--%>
-<%--        <br>--%>
-<%--        <p class="login-Space"></p>  <!-- 공백 -->--%>
-<%--    </div>--%>
-<%--    <br>--%>
-    <!-- 추천인아이디 종료-->
-
     <!-- 가입하기 버튼 시작 -->
     <button type="submit" class="login-button">가입하기</button>
 

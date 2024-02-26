@@ -52,10 +52,5 @@ public class ProdServiceImpl implements ProdService {
         return prodDao.prodSearch(psc);
     }
 
-    // 상품 검색에 사용 하는 메서드
-//    @Override
-//    public int getprodCount(ProdSearchCondition psc) throws Exception{
-//        return prodDao.prodCount(psc);
-//    }
 
 }

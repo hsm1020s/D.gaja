@@ -57,30 +57,6 @@ public class LoginController {
         String resultid = custService.findCustId(custDto);
         // 해당하는 id 찾아냈음
 
-//        if (!(email.equals(custService.loginCust(resultid).getEmail())))
-//            return "redirect:login/findid"; //리다이렉트로 바꿈
-//        // 만약 입력한 이메일과 현재 로그인한 아이디의 이메일과 일치하지 않으면 다시 아이디찾기화면으로 돌아간다.
-//        // 그 아이디의 이메일과 입력된 이메일을 비교해서 맞으면
-//        SecureRandom random = new SecureRandom();
-//        String sms = new BigInteger(70, random).toString(32);
-//        //랜덤한 문자열을 생성해서
-//
-//        // 인증번호를 이메일로 보내고
-//        String subject = "인증번호를 보내드립니다.";
-//        String content = "인증번호는 " + sms + "입니다. ";
-//        String from = "hsm1020ss@naver.com";
-//        String to = "" + email + "";
-//        try {
-//            MimeMessage mail = mailSender.createMimeMessage();
-//            MimeMessageHelper mailHelper = new MimeMessageHelper(mail, true, "UTF-8");
-//            mailHelper.setFrom(from);
-//            mailHelper.setTo(to);
-//            mailHelper.setSubject(subject);
-//            mailHelper.setText(content, true);
-//            mailSender.send(mail);
-//        } catch (Exception e) {
-//            e.printStackTrace();
-//        }
         m.addAttribute("findidresult", resultid); // 모델에 찾은 아이디 담음
         return "findidresult"; //현재는 찾은 아이디를 보여주지만 경로를 수정해야할듯.
     }
