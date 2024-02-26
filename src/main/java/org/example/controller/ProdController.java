@@ -40,23 +40,8 @@ public class ProdController {
         this.prodImgService = prodImgService;
         this.prodOptService = prodOptService;
     }
-
-    //private static final String CURR_IMAGE_REPO_PATH = "C:\\Users\\huis9\\D.gaja\\src\\main\\webapp\\resources\\img";
     private static String CURR_IMAGE_REPO_PATH = "C:\\Users\\huis9\\D.gaja\\src\\main\\webapp\\resources\\img";
-//    private static String CURR_IMAGE_REPO_PATH = "C:\\Users\\ftisa\\D.gaja\\src\\main\\webapp\\resources\\img";
 
-//    static {
-//        if (someCondition()) {
-//            CURR_IMAGE_REPO_PATH = "value1";
-//        } else if (){
-//            CURR_IMAGE_REPO_PATH = "value2";
-//        }
-//    }
-//    @GetMapping("/addPath")
-//    public String prodPATH(Model m) throws Exception{
-//
-//        return "forward:/prod/register"; // 상품등록으로 값 전달
-//    }
     @GetMapping("/register")
     public String prodregisterGET(Model m) throws Exception{
         return "prodRegister";
@@ -125,12 +110,6 @@ public class ProdController {
             // 이미지의 가로, 세로 크기를 ProdImgDto에 저장하는 코드
             prodImgService.productImgRegister(prodImgDto);
         }
-
-//        for (int i = 1; i < fileList.size(); i++) {
-//            Object o = fileList.get(i);
-//            System.out.println("o = " + o);
-//            // 여기서 작업 수행...
-//        }
 
         m.addAttribute("map", map);  // ModelAndView에서 addObject를 사용한 것과 동일한 역할
 

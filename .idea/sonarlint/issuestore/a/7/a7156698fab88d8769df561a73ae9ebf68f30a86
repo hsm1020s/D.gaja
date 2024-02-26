@@ -1,0 +1,23 @@
+
+J
+java:S37409"/Provide the parametrized type for this generic.(™Þ­Ôþÿÿÿÿ
+J
+java:S37409"/Provide the parametrized type for this generic.(™Þ­Ôþÿÿÿÿ
+k	java:S117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú»ããûÿÿÿÿ
+€
+java:S6833"eReplace the "@Controller" annotation by "@RestController" and remove all "@ResponseBody" annotations.(íœ¡ñùÿÿÿÿ
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ
+P	java:S125H"<This block of commented-out lines of code should be removed.(Ú‡ç2
+C
+java:S1481Q".Remove this unused "pointLast" local variable.(õ³Ó
+V	java:S125Z"<This block of commented-out lines of code should be removed.(°å‰Ÿÿÿÿÿÿ
+Q	java:S125`"<This block of commented-out lines of code should be removed.(ÙÔö³
+Q	java:S125n"<This block of commented-out lines of code should be removed.(§í»Ñ
+@	java:S106z"+Replace this use of System.out by a logger.(œ½Ú
+@	java:S106{"+Replace this use of System.out by a logger.(ó‹§
+E	java:S106|"+Replace this use of System.out by a logger.(œ „þùÿÿÿÿ
+B
+java:S1452‡"&Remove usage of generic wildcard type.(ßÓôÆýÿÿÿÿ

@@ -12,7 +12,7 @@ public interface CustService {
     String findCustId(CustDto custDto) throws Exception; // 회원아이디 찾아주기
 
     CustDto loginCust(String id) throws Exception;
-     int registerCust(CustDto custDto) throws Exception;
+    int registerCust(CustDto custDto) throws Exception;
 
     CustDto modifyselect(String id) throws Exception;
 

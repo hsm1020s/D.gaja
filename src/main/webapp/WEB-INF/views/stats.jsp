@@ -118,7 +118,7 @@
         },
         options: {
             legend: {
-                position: 'right' // 범례를 오른쪽에 위치시킵니다.
+                position: 'right' // 범례를 오른쪽에 위치
             },
             tooltips: {
                 callbacks: {

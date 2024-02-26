@@ -11,7 +11,6 @@ function showItemList() {
         slidesAll[j].style.display = "none";
     }
     for (let i = 0; i < 4; i++) {
-        // If slideIndexItem is beyond the last index, reset it to 0
         if (slideIndexItem >= slidesAll.length) {
             slideIndexItem = 0;
         }
@@ -110,6 +109,6 @@ $('a[href^="#"]').on('click', function(event) {
         event.preventDefault();
         $('html, body').stop().animate({
             scrollTop: target.offset().top
-        }, 500); // 여기서 1000은 애니메이션 지속 시간으로 1초를 의미합니다.
+        }, 500); // 여기서 500은 애니메이션 지속 시간으로 1초를 의미합니다.
     }
 });
