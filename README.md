@@ -62,6 +62,14 @@
 10. 상품등록<br>
 11. 메인페이지<br>
 
+제가 했던 부분만 엑셀로 작성하였습니다! <br>
+https://docs.google.com/spreadsheets/d/1WXLDmW3a44vHY5Zgf1sE63GcTYKvZk6dAML7gX1PrzI/edit?usp=sharing   <br><br>
+9개의 컨트롤러에서 23개의 API, 7개의 메서드<br>
+<br>
+<img width="653" alt="image" src="https://github.com/hsm1020s/D.gaja/assets/111288446/ff346327-32e0-4461-8c6a-e5507cebf3ce">
+
+
+
 ## 프로젝트 회고
 일정을 정해놓고 팀원들과 회의하고 협의해 가면서 프로젝트를 완성했습니다.<br>
 처음에 5명이었고 중간에 2명이 빠지면서 어려움에 처했으나, 나머지 팀원들과 함께 차근차근 문제를 해결해나갔습니다.<br>
