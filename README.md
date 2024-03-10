@@ -66,7 +66,8 @@
 https://docs.google.com/spreadsheets/d/1WXLDmW3a44vHY5Zgf1sE63GcTYKvZk6dAML7gX1PrzI/edit?usp=sharing   <br><br>
 9개의 컨트롤러에서 23개의 API, 7개의 메서드<br>
 <br>
-<img width="653" alt="image" src="https://github.com/hsm1020s/D.gaja/assets/111288446/ff346327-32e0-4461-8c6a-e5507cebf3ce">
+<img width="786" alt="image" src="https://github.com/hsm1020s/D.gaja/assets/111288446/066fec96-25b8-4071-b154-590be4aafdba">
+
 
 
 
