@@ -107,48 +107,48 @@ https://youtu.be/pg4bqkl2JkQ
 <br>
 메인페이지 프론트(보여지는 부분)는 팀원들과 같이 하였으며 상품을 백엔드에서 가져와서 JS로 처리는 제가 했습니다.<br><br>
 <img width="909" alt="메인페이지1" src="https://github.com/hsm1020s/D.gaja/assets/111288446/ce2fd0d5-3569-42ac-8fcc-c9485b972547">
-<br> 메인페이지 상단
+<br> 메인페이지 상단 ↑ <br>
 <br>
 <img width="865" alt="메인페이지2" src="https://github.com/hsm1020s/D.gaja/assets/111288446/fcdec8c2-8450-457f-abf6-08292c086387">
-<br> 메인페이지 하단
+<br> 메인페이지 하단 ↑ <br>
 <br>
 <img width="919" alt="메인페이지3(관리자)" src="https://github.com/hsm1020s/D.gaja/assets/111288446/a01e1949-c49f-44a2-b55a-c7f0f98e6c35">
-<br> 관리자 로그인시 관리자 화면 진입 버튼이 생깁니다.
+<br> 관리자 로그인시 관리자 화면 진입 버튼이 생깁니다. ↑ <br>
 <br>
 <img width="922" alt="로그인1" src="https://github.com/hsm1020s/D.gaja/assets/111288446/3b9251af-8a08-4e7a-9529-346c27f4901d">
-<br> 로그인 화면
+<br> 로그인 화면 ↑ <br>
 <br>
 <img width="316" alt="회원가입1" src="https://github.com/hsm1020s/D.gaja/assets/111288446/2583207b-b4f0-4999-a214-676cedd87649">
-<br> 회원가입 화면 
+<br> 회원가입 화면 ↑ <br>
 <br>
 <img width="288" alt="아이디찾기1" src="https://github.com/hsm1020s/D.gaja/assets/111288446/bee7ed57-a139-4102-8d4c-3c7d0345873c">
-<br> 아이디찾기 화면
-<br>
+<br> 아이디찾기 화면 ↑ <br>
+<br> 
 <img width="253" alt="비번찾기1" src="https://github.com/hsm1020s/D.gaja/assets/111288446/e6c3adce-f1cc-4ec7-adc9-e5d4a9b459ee">
-<br> 비밀번호 찾기 화면
+<br> 비밀번호 찾기 화면 ↑ <br>
 <br>
 <img width="437" alt="정보수정1" src="https://github.com/hsm1020s/D.gaja/assets/111288446/602bd397-feff-421c-826c-f745f5761ea5">
-<br> 정보수정 화면
+<br> 정보수정 화면 ↑ <br>
 <br>
 <img width="563" alt="마이페이지1" src="https://github.com/hsm1020s/D.gaja/assets/111288446/48c06307-fda7-4e5a-9439-764d38eb34e7">
-<br> 마이페이지 프론트는 팀원이 도와줬습니다.
+<br> 마이페이지 프론트는 팀원이 도와줬습니다. ↑ <br>
 <br>
 <img width="441" alt="회원탈퇴1" src="https://github.com/hsm1020s/D.gaja/assets/111288446/94f264ff-59ae-4396-8f7e-ef1392cb9d3e">
-<br> 회원탈퇴 기능
+<br> 회원탈퇴 기능 ↑ <br>
 <br>
 <img width="542" alt="포인트이력1" src="https://github.com/hsm1020s/D.gaja/assets/111288446/bd7e8e2e-dea2-4fdb-91f2-fcd05feaedab">
-<br> 포인트이력 화면
-<br>
+<br> 포인트이력 화면 ↑ <br>
+<br> 
 <img width="602" alt="회원리스트1" src="https://github.com/hsm1020s/D.gaja/assets/111288446/3c8b141a-f6d2-461d-bcb0-45aaa2e588ba">
-<br> 회원리스트 화면
+<br> 회원리스트 화면 ↑ <br>
 <br>
 <img width="593" alt="회원로그인이력1" src="https://github.com/hsm1020s/D.gaja/assets/111288446/152755b3-eb06-48c0-a1ed-810be511b531">
-<br> 회원 로그인 이력 화면
+<br> 회원 로그인 이력 화면 ↑ <br>
 <br>
 <img width="254" alt="로그인통계1" src="https://github.com/hsm1020s/D.gaja/assets/111288446/31c6dc67-1fcf-4d43-ac19-ef9c93fc46c3">
-<br> 회원 로그인 통계 화면 ( 시간대별 로그인횟수가 DB에 쌓이고 그 정보를 가져와서 일정시간마다 업데이트 시킵니다.)
+<br> 회원 로그인 통계 화면 ↑ ( 시간대별 로그인횟수가 DB에 쌓이고 그 정보를 가져와서 일정시간마다 업데이트 시킵니다.) <br>
 <br>
 <img width="307" alt="상품등록1" src="https://github.com/hsm1020s/D.gaja/assets/111288446/ae8d483a-a5fb-435a-a0e7-17a7fdde49d3">
-<br> 상품 등록 화면
+<br> 상품 등록 화면 ↑ <br>
 
 
