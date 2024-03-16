@@ -94,6 +94,10 @@ https://docs.google.com/spreadsheets/d/1WXLDmW3a44vHY5Zgf1sE63GcTYKvZk6dAML7gX1P
 
 발표 영상을 첨부합니다.<br>
 https://youtu.be/pg4bqkl2JkQ
+<br><br>
+![image](https://github.com/hsm1020s/D.gaja/assets/111288446/48e6a40d-0a65-4590-9552-c8d63160d363)
+
+
 
 ## Reference
 * Rankingdak.com, Imdak, Moguchonmall, Cafe24
