@@ -13,8 +13,8 @@
 ## 개요
 * 프로젝트 이름 : D.gaja (드가자) 쇼핑몰 프로젝트
 * 프로젝트 기간(1차,2차) : 2023.05.30~2023.08.14 (기획,모델링,발표 포함) 77일 1000시간
-* 프로젝트 진행 기관 : 정석코딩 부트캠프
-* Back-End : Tomcat, Java11, Spring5.7, MySQL8.0, MyBatis, JSP, Maven, JUnit4
+* 프로젝트 진행 기관 : 남궁성의 정석코딩 (부트캠프) 사비O | 국비지원X 
+* Back-End : Tomcat, Java11, Spring5, MySQL8.0, MyBatis, JSP, Maven, JUnit4
 * Front-End : HTML, CSS3, JS ES6, Ajax, JQUERY
 * 개발 TOOL : IntelliJ, VSCode, DataGrip, MySQL Workbench
 * 협업 TOOL : git, Draw.io, Discord, Notion
